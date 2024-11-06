@@ -18,7 +18,7 @@ pipeline {
                 }
             }
         }
-        stage ('Run Powershell Command') {
+        stage ('Run Powershell Command agian') {
             steps {
                 echo 'Start Executing'
                 script {
